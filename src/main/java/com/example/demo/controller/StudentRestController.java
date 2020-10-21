@@ -16,7 +16,11 @@ public String getEmployee() {
 	public String getEmployeeAdded() {
 	return "Hi";
 }
-	public String getEmployeeAdded5() {
-		return "Hi";
+
+	public String getEmployeeAddedTwo() {
+	return "Hi123";
+}
+	public String getEmployeeAddedTwo4() {
+		return "Hi123";
 	}
 }
