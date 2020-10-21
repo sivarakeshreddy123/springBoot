@@ -19,4 +19,7 @@ public String getEmployee() {
 	public String getEmployeeAddedTwo() {
 	return "Hi123";
 }
+	public String getEmployeeAddedFive() {
+	return "Hi123";
+}
 }
