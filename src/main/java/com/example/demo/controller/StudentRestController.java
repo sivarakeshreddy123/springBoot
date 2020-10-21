@@ -13,4 +13,7 @@ public class StudentRestController {
 public String getEmployee() {
 	return "Hi";
 }
+	public String getEmployeeAdded() {
+	return "Hi";
+}
 }
