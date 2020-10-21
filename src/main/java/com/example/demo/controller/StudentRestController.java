@@ -16,5 +16,7 @@ public String getEmployee() {
 	public String getEmployeeAdded() {
 	return "Hi";
 }
-	
+	public String getEmployeeAdded4() {
+		return "Hi";
+	}
 }
