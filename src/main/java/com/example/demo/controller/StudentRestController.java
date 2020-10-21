@@ -27,4 +27,7 @@ public String getEmployee() {
 	public String getEmployeeAddedFive() {
 	return "Hi0123455";
 }
+	public String getAddFive() {
+	return "Hyd";
+}
 }
