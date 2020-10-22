@@ -30,4 +30,7 @@ public String getEmployee() {
 	public String getAddFive() {
 	return "Hyd";
 }
+	public String getAddSeven() {
+	return "Hyd7";
+}
 }
