@@ -36,7 +36,7 @@ public String getEmployee() {
 	public String getAddEight() {
 		return "Hyd8";
 	}
-	public String getAddEight() {
+	public String getAddNine() {
 		return "Hyd9";
 	}
 }
