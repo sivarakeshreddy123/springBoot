@@ -36,4 +36,7 @@ public String getEmployee() {
 	public String getAddEight() {
 		return "Hyd8";
 	}
+	public String getAddEight() {
+		return "Hyd9";
+	}
 }
