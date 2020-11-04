@@ -39,4 +39,7 @@ public String getEmployee() {
 	public String getAddNine() {
 		return "Hyd9";
 	}
+	public String getAddNine11() {
+		return "Hyd11";
+	}
 }
